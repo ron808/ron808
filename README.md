@@ -64,10 +64,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ron808&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
+<!-- ---
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
@@ -89,7 +89,7 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://dev.to/feed/itszed0"
-
+ -->
 <!--
 **ron808/ron808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
