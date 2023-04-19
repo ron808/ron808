@@ -30,7 +30,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring new tech everyday.
+- :seedling: Exploring new tech everyday. 🚀:
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
