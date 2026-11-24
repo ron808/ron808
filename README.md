@@ -1,206 +1,41 @@
-<div align="center">
-  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/> -->
-  <h1>
-    <b>Hey there!</b>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  </h1>
-</div>
+### Rohit Naidu Siriporam
 
-<div align="center">
-  <a href="https://www.rohitnaidusiriporam.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rohit-naidu-siriporam-1291871b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/rohitnaidu808">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="mailto:rohit16nov1999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://github.com/ron808">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</div>
+Full-stack engineer in Tokyo. Tech Lead at [AKIYA2.0](https://www.akiya2.com), where I was the first engineer, hired before the 2023 launch. Seven live products, built end to end.
 
----
+[Portfolio](https://www.rohitnaidusiriporam.com) · [Résumé (PDF)](https://www.rohitnaidusiriporam.com/Rohit_Naidu_Siriporam_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/rohit-naidu-siriporam-1291871b3) · rohitnaidusiriporam@gmail.com
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding"/>
-</div>
+#### AKIYA2.0
 
----
+I lead all of AKIYA2.0's technology and set the roadmap and architecture with the CEO and COO. I built the server-rendered React frontend, the FastAPI services and the Gemini extraction pipeline, hired and mentored 10+ interns, and shipped [Hinoki Stays](https://www.hinokistays.com) alongside it.
 
-## 🚀 About Me
+| | |
+|---:|---|
+| **100k+** | monthly search impressions, up from ~100 |
+| **1,800+** | municipal sites turned into listings, 95% accurate |
+| **~50 ms** | server response, down from ~1 s |
+| **¥0.05** | data cost per listing, down from ~¥10–20 |
 
-```
-👨‍💻 Full Stack Engineer & Tech Lead | 🎓 B.E Computer Science | 📍 India
-Passionate about building scalable web applications and leading technical teams
-```
+React · Vite · Express SSR · FastAPI · MongoDB · Gemini. The product code is private.
 
-I'm a **Full Stack Developer & Tech Lead** with a passion for creating robust, scalable web applications. Currently leading technical initiatives at **Japan Inc Holding KK**, where I architect and develop comprehensive solutions for complex problems.
+#### Side projects
 
-- 🔬 **Tech Lead** at Japan Inc Holding KK (Akiya2.0) - Leading full-stack development with React.js, FastAPI, and cloud infrastructure
-- 🏗️ **Building at Scale** - Designing scrapers, APIs, and frontends that process data across 47 Japanese prefectures
-- 🎯 **Problem Solver** - Leveraging AI/ML (Gemini 2.0 Flash) for intelligent data extraction and processing
-- 📚 **Continuous Learner** - Exploring new technologies, DevOps practices, and best practices in web development
-- ⚡ **Impact Focused** - Writing clean, maintainable code that scales and performs
+| | | |
+|---|---|---|
+| [**Kata**](https://kata-day.vercel.app) · [code](https://github.com/ron808/kata) | The journal that checks in on you. | Next.js · TypeScript · MongoDB · Groq · Upstash Redis |
+| [**Qrio**](https://qrio-quiz.vercel.app) · [code](https://github.com/ron808/qrioFrontend) | Custom quizzes. Solo or with friends. | Next.js · Express · WebSockets · Groq · SQLite |
+| [**Manabi**](https://manabi-jp.vercel.app) · [code](https://github.com/ron808/Manabi) | JLPT papers, generated on demand. | Next.js · TypeScript · MongoDB · Groq · Vitest |
+| [**Psych.site**](https://psych-me.vercel.app) · [code](https://github.com/ron808/psych-next) | Five personality tests, printed in ink. | Next.js · TypeScript · WebGL · GSAP |
 
----
+#### Experience
 
-## 💼 Professional Experience
+- **Tech Lead**, AKIYA2.0 Inc. (Japan Inc. Holdings group) · Mar 2024 – present · Tokyo
+- **Software Engineer**, AKIYA2.0 · Aug 2023 – Feb 2024 · part-time, remote from India
+- **Full-Stack Developer Intern**, Markoknow · Apr – Jun 2023 · remote
+- **Software Engineering Intern**, Japan Travel KK · Aug – Dec 2022 · remote
 
-### **Software Engineer - Tech Lead** | Japan Inc Holding KK
-*Mar 2023 - Present | Full Time | Onsite*
+#### Writing
 
-- 🎯 Leading the Akiya2.0 project - a comprehensive platform for discovering Japanese properties globally
-- 🏗️ Architected and maintained scalable backend infrastructure using **FastAPI**, **MongoDB**, and **NGINX**
-- 🎨 Designed dynamic frontends using **React.js**, **Webflow**, and **Tailwind CSS**
-- 🤖 Implemented AI-powered PDF scraping with **Gemini 2.0 Flash** for intelligent property data extraction
-- 📊 Led SEO optimization strategies and backend performance improvements resulting in increased user engagement
-- 👥 Supervised and mentored development team to maintain code quality and project timelines
-- 🔐 Implemented security best practices including CORS, HTTPS, rate limiting, and API key management
-- 📈 Deployed and managed infrastructure on **Linode** with continuous deployment pipelines
+- [How I Got a Junior Software Engineering Job in Japan From Overseas](https://www.tokyodev.com/articles/how-i-got-a-junior-software-engineering-job-in-japan-from-overseas) · TokyoDev, Oct 2026
+- [Spotting simulated commodity welding metamask technology](https://ieeexplore.ieee.org/document/10531389) · IEEE AIMLA 2024, co-author
 
-### **Full Stack Developer** | Japan Inc Holding KK (Internship)
-*Aug 2022 - Feb 2023 | Remote*
-
-- Contributed to Akiya2.0 project foundation, building Python-based PDF scraper
-- Developed FastAPI backend endpoints for property data management
-- Created responsive frontend components in Webflow and React
-
-### **Full Stack MERN Developer** | Markoknow
-*May 2022 - Jun 2022 | Remote*
-
-- Developed full-stack components for multiple Markoknow platforms
-- Gained hands-on experience in React Native for cross-platform mobile development
-
-### **Full Stack Developer** | Japan Travels KK
-*Aug 2022 - Dec 2022 | Remote*
-
-- Collaborated on "The O2O Stays" project using MERN stack
-- Implemented NGINX reverse proxy for production deployment
-
----
-
-## 🛠️ Technical Skills
-
-### **Frontend Development**
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue" width="45" height="45"/>
-</div>
-
-### **Backend & DevOps**
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>
-</div>
-
-### **Tools & Infrastructure**
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>
-</div>
-
----
-
-## 🎯 Key Expertise
-
-| Area | Proficiency |
-|------|------------|
-| **Full Stack Development** | Building end-to-end web applications with React, Node.js, FastAPI |
-| **Backend Architecture** | Designing scalable APIs, database optimization, microservices patterns |
-| **DevOps & Infrastructure** | Linux server management, NGINX configuration, CI/CD pipelines, deployment |
-| **Web Scraping & Data Processing** | Python-based scrapers, PDF extraction, complex data parsing |
-| **AI/ML Integration** | Gemini 2.0 Flash for intelligent data extraction and processing |
-| **Frontend Performance** | SSR optimization, SEO implementation, responsive design |
-| **Team Leadership** | Mentoring interns, code reviews, technical decision making |
-| **Web Security** | CORS, HTTPS, rate limiting, secure API design patterns |
-
----
-
-## 🌟 Featured Project
-
-### **Akiya2.0** - Japanese Property Discovery Platform
-*Tech: FastAPI, React.js, MongoDB, NGINX, Gemini 2.0 Flash, Tailwind CSS*
-
-A comprehensive platform designed to bring visibility to traditional Japanese properties (Akiyas and Kominkas) globally.
-
-**What Makes It Special:**
-- 🤖 **AI-Powered Data Extraction** - Processes complex Japanese property PDFs using Gemini 2.0 Flash
-- 📍 **Nationwide Coverage** - Scrapes and indexes properties across 47 prefectures and 1,800+ municipalities
-- 🚀 **Highly Scalable** - FastAPI backend handles millions of data points with optimal performance
-- 🎨 **Beautiful UX** - Responsive React frontend with Tailwind CSS for seamless user experience
-- 📊 **SEO Optimized** - Server-side rendering for maximum search engine visibility
-- 🔐 **Enterprise-Grade Security** - Implemented security best practices for data protection
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ron808">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ron808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Rohit's GitHub stats"/>
-  </a>
-  <a href="https://github.com/ron808">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ron808&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ron808&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎓 Education
-
-**B.E Computer Science Engineering** | Sathyabama University, Chennai
-- CGPA: 8.55/10 | 2020-2024
-
-**Intermediate** | Narayana Junior College, Hyderabad
-- Grade: 87% | 2018-2020
-
----
-
-## 🔗 Let's Connect!
-
-I'm always excited to collaborate on interesting projects, discuss technology, or help solve challenging problems. Feel free to reach out!
-
-<div align="center">
-  <a href="https://www.rohitnaidusiriporam.com">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white"/>
-  </a>
-  <a href="mailto:rohit16nov1999@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rohit-naidu-siriporam-1291871b3/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <i>💡 Always learning, always building, always growing</i>
-  
-  <img src="https://komarev.com/ghpvc/?username=ron808&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+B.E. Computer Science and Engineering, Sathyabama Institute of Science and Technology, 2020–2024 · English, Hindi, Telugu and Japanese (studying) · Kawasaki, Greater Tokyo
